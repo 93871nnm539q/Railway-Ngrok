@@ -11,6 +11,6 @@ services:
       - key: PORT
         value: 80
       - key: NGROK_TOKEN
-        sync: false
+        value: 2BNYe4xsXCokZifdoMkzW1bnW6C_5R2Nxk7HsgQvd4swywSPP
       - key: REGION
-        sync: false
+        value: us
