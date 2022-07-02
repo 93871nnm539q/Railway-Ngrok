@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:jammy-20220531
 ARG NGROK_TOKEN
 ARG REGION=jp
 ENV DEBIAN_FRONTEND=noninteractive
